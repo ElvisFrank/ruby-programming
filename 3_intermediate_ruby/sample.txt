@@ -1,0 +1,4 @@
+Hello file!
+    
+    The next line invokes the File class method open, which requires us to pass it two arguments: 1) the filename, represented by a String, and 2) the read/write mode. As you might guess, "w" stands for write.
+Warning: Using "w" mode on an existing file.
